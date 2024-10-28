@@ -1,0 +1,18 @@
+Algoritma Week 2 soal 2
+
+- mulai
+- inputkan masukan jari-jari lingkaran(r)
+- proses
+- hitung luas lingkaran dengan rumus: luas = pi*r*r
+- hitung keliling lingkaran dengan rumus: keliling = 2*pi*r 
+- tampilkan hasil luas dan hasil lingkaran 
+- selesai
+
+PSEUDOCODE
+
+Mulai
+input n
+if n mod 2 = 1 then
+output true 
+else output false
+End

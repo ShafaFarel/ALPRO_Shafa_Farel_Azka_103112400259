@@ -1,0 +1,28 @@
+Algoritma Week 5 soal 3
+
+1. Mulai program.
+2. Baca input nilai n, yaitu jumlah elemen dalam daftar.
+3. Buat sebuah daftar untuk menyimpan bilangan yang akan diinput oleh pengguna.
+4. Lakukan loop sebanyak n kali untuk membaca setiap bilangan, dan simpan masing-masing bilangan ke dalam daftar.
+5. Untuk setiap bilangan dalam daftar, kalikan bilangan tersebut dengan indeksnya (indeks dimulai dari 1).
+6. Simpan hasil perkalian ke dalam daftar hasil.
+7. Tampilkan hasil perkalian untuk setiap bilangan.
+8. Selesai.
+
+PSEUDOCODE
+
+Mulai
+
+Input n 
+Deklarasikan daftar bilangan dengan panjang n
+Deklarasikan daftar hasil
+
+Untuk i dari 1 hingga n lakukan:
+    Input bilangan[i-1]  
+
+Untuk i dari 1 hingga n lakukan:
+    hasil[i-1] = bilangan[i-1] * i 
+
+Output daftar hasil
+
+Selesai

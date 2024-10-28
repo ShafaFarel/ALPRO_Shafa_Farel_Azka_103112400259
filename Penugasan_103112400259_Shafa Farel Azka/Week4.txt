@@ -1,0 +1,37 @@
+Algoritma Week 4 soal 3
+
+1. Mulai
+2. Buat tipe data orang dengan atribut:
+    - nama: tipe data string
+    - berat: tipe data float (dalam kg)
+    - tinggi: tipe data float (dalam meter)
+3. input nama, berat, dan tinggi badan dari pengguna 
+4. Hitung BMI dengan rumus BMI = berat\(tinggi * tinggi)
+5. Tampilkan informasi nama, berat badan, tinggi badan, dan nilai bmi
+6. Selesai
+
+PSEUDOCODE
+
+Mulai
+
+Definisikan tipe data Orang
+    Atribut:
+        nama: String
+        berat: Float
+        tinggi: Float
+
+Deklarasikan variabel orang bertipe data Orang
+
+Input orang.nama
+Input orang.berat
+Input orang.tinggi
+
+Hitung BMI = orang.berat / (orang.tinggi * orang.tinggi)
+
+Output "Informasi BMI:"
+Output "Nama: " + orang.nama
+Output "Berat: " + orang.berat + " kg"
+Output "Tinggi: " + orang.tinggi + " m"
+Output "BMI: " + BMI
+
+Selesai

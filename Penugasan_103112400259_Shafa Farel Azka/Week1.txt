@@ -1,0 +1,29 @@
+Algoritma Week 1 soal 2
+
+- mulai
+- siapkan peralatan
+- siapkan cangkir kertas, sendok, kopi, dan gula
+- masukan kopi yang berada di wadah ke dalam sebuah cangkir menggunakan sebuah sendok
+- jika ingin menambahkan gula, maka masukan gula yang berada di wadah ke dalam sebuah cangkir menggunakan sendok
+- ambil air panas dari dispenser
+- kemudian seduhkan air panas tersebut ke dalam cangkir sampai tingkat yang diinginkan
+- gunakan sendok untuk mengaduk kopi yang sudah di buat
+- cek apakah bahan kopi masih tersedia
+- jika ada yang habis maka hentikan proses pembuatan kopi
+- selesai
+
+PSEUDOCODE
+
+Mulai
+while kopi dan gula masih tersedia:
+    a. ambil satu cangkir kertas
+    b. Ambil satu sendok kopi dari wadah dan masukkan ke dalam cangkir.
+    c. Tanya apakah ingin menambahkan gula:
+        - Jika ya, ambil satu sendok gula dari wadah dan masukkan ke dalam cangkir.
+    d. Tuangkan air panas dari dispenser ke dalam cangkir.
+    e. Aduk semua bahan dalam cangkir hingga merata.
+    f. Tampilkan "Kopi siap dinikmati."
+    g. Periksa ketersediaan bahan:
+      - Jika kopi habis, tampilkan "Kopi habis."
+      - Jika gula habis, tampilkan "Gula habis."
+Selesai
